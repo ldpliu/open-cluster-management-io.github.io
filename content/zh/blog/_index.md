@@ -2,6 +2,10 @@
 title: 博客
 weight: 6
 ---
+### [ocm placement调度器大规模性能测试报告](/zh/blog/performance-placement/)
+- Authors: [刘党朋](https://github.com/ldpliu)
+- Date: 2023年5月26日
+---
 ### [详解ocm klusterlet秘钥管理机制](/zh/blog/registration-deepdive/)
 - Authors: [邱见](https://github.com/qiujian16)
 - Date: 2023年4月26日
